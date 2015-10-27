@@ -14,7 +14,7 @@ public class MainClass
     public static void main(String[] args) {
         do {
             try {
-                int z = instructionMenu();
+                int z = instructionMenu();куку
 
                 switch (t z) {
                     case 1: {
