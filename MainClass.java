@@ -14,9 +14,9 @@ public class MainClass
     public static void main(String[] args) {
         do {
             try {
-                int choice = instructionMenu();
+                int z = instructionMenu();
 
-                switch (choice) {
+                switch (t z) {
                     case 1: {
                         Set words = new Set();
                         words.openFile();
